@@ -51,8 +51,7 @@ Aplicar **Visão Computacional** para automatizar a identificação de motos usa
 **1\)** Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/mottu-vision.git
-cd mottu-vision
+git clone https://github.com/ViniciusLeopoldino/challenge_iot.git
 ```
 
 **2\)** Instale as dependências:
