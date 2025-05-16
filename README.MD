@@ -91,7 +91,7 @@ Aponte sua webcam para um QR Code com conteúdo como este:
 📁 CHALLENGE_IOT
 ├── mottu_vision.py        ← Script principal de detecção
 ├── README.md              ← Documentação do projeto
-├── imgs/                  ← Imagens de teste
+├── imgs/                  ← Imagem de teste
 ```
 
 ---
@@ -111,9 +111,3 @@ Aponte sua webcam para um QR Code com conteúdo como este:
 **Orientador:** [Renan Rodrigues Mendes]
 
 ---
-
-## ✅ Entregáveis
-
-- ✅ Vídeo demonstrativo (link no topo)
-- ✅ Repositório com código e instruções
-- ✅ Prova de conceito funcional com leitura de QR
