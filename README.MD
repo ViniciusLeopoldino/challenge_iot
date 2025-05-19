@@ -51,8 +51,7 @@ Aplicar **Visão Computacional** para automatizar a identificação de motos usa
 **1\)** Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/mottu-vision.git
-cd mottu-vision
+git clone https://github.com/ViniciusLeopoldino/challenge_iot.git
 ```
 
 **2\)** Instale as dependências:
@@ -92,7 +91,7 @@ Aponte sua webcam para um QR Code com conteúdo como este:
 📁 CHALLENGE_IOT
 ├── mottu_vision.py        ← Script principal de detecção
 ├── README.md              ← Documentação do projeto
-├── imgs/                  ← Imagens de teste
+├── imgs/                  ← Imagem de teste
 ```
 
 ---
@@ -112,9 +111,3 @@ Aponte sua webcam para um QR Code com conteúdo como este:
 **Orientador:** [Renan Rodrigues Mendes]
 
 ---
-
-## ✅ Entregáveis
-
-- ✅ Vídeo demonstrativo (link no topo)
-- ✅ Repositório com código e instruções
-- ✅ Prova de conceito funcional com leitura de QR
