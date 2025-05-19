@@ -5,7 +5,7 @@ import json
 
 def ler_qr_da_camera():
     cap = cv2.VideoCapture(0)
-    print("Aguardando leitura do QR Code... Pressione 'q' para sair.")
+    print("Aguardando leitura do QR Code... Pressione 'Ctrl + C' para sair.")
 
     while True:
         ret, frame = cap.read()
