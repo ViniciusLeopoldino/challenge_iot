@@ -91,6 +91,8 @@ Aponte sua webcam para um QR Code com conteúdo como este:
 }
 ```
 
+**OBS:**Caso necessário, utilize a imagem dentro da pasta **imgs**.
+
 📎 Gere QR Codes em: https://www.qr-code-generator.com/
 
 ---
