@@ -1,6 +1,16 @@
+## 👨‍💻 Integrantes
+
+- **RM:** 557047 **Nome:** Vinicius Leopoldino de Oliveira
+- **RM:** 556834 **Nome:** Pablo Lopes Doria de Andrade
+- **RM:** 558711 **Nome:** Diego Santos Cardoso
+- **Curso:** Análise e Desenvolvimento de Sistemas - FIAP
+- **Matéria:** Disruptive Architectures: IoT, IOB & Generative IA
+
+---
+
 # Mottu Vision – Sistema de Identificação Visual com QR Code
 
-Este projeto é uma extensão técnica do sistema **Mottu Storage**, usando **Visão Computacional** com Python para detectar e extrair automaticamente os dados de motos por meio de QR Codes.
+Este projeto é uma extensão técnica do sistema **MottuStorage**, usando **Visão Computacional** com Python para detectar e extrair automaticamente os dados de motos por meio de QR Codes.
 
 ---
 
@@ -12,7 +22,7 @@ A empresa **Mottu** realiza o armazenamento de motocicletas em armazéns sem con
 
 ## 💡 Solução Proposta
 
-Aplicar **Visão Computacional** para automatizar a identificação de motos usando QR Codes colados nos tanques. Ao apontar uma câmera para o código, o sistema extrai e exibe automaticamente os dados da moto, simulando o funcionamento do app.
+Aplicar **Visão Computacional** para automatizar a identificação de motos usando QR Codes colados nos tanques. Ao apontar uma câmera para o código, o sistema extrai e exibe automaticamente os dados da moto, com a informação extraída o sistema MottuStorage pode fazer tanto o armazenamento da moto quanto a consulta para identificar em qual localização ela está.
 
 ---
 
@@ -29,7 +39,7 @@ Aplicar **Visão Computacional** para automatizar a identificação de motos usa
 ## 📸 Demonstração (vídeo)
 
 🎥 Assista ao vídeo demonstrativo com o protótipo funcional no YouTube:  
-📎 [Clique aqui para assistir](https://youtu.be/) *(modo não listado)*
+📎 [Clique aqui para assistir](https://youtube.com/shorts/_HZQ53yecRE?feature=share)
 
 ---
 
@@ -104,10 +114,3 @@ Aponte sua webcam para um QR Code com conteúdo como este:
 
 ---
 
-## 👨‍💻 Autor e Créditos
-
-**Desenvolvedor:** [Vinicius Leopoldino de Oliveira]  
-**Curso:** [ANALISE E DESENVOLVIMENTO DE SISTEMAS - FIAP - 2SEM]  
-**Orientador:** [Renan Rodrigues Mendes]
-
----
