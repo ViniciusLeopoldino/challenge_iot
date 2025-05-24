@@ -95,17 +95,6 @@ Aponte sua webcam para um QR Code com conteúdo como este:
 
 ---
 
-## 🗂 Estrutura do Projeto
-
-```
-📁 CHALLENGE_IOT
-├── mottu_vision.py        ← Script principal de detecção
-├── README.md              ← Documentação do projeto
-├── imgs/                  ← Imagem de teste
-```
-
----
-
 ## 📌 Observações Importantes
 
 - O projeto funciona com webcam, mas também pode ser adaptado para processar imagens estáticas.
